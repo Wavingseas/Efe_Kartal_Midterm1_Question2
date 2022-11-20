@@ -1,0 +1,7 @@
+../Src/main.c:30:6:init_leds	4	static
+../Src/main.c:38:6:turn_name_on	4	static
+../Src/main.c:43:6:turn_name_off	4	static
+../Src/main.c:48:6:turn_surname_on	4	static
+../Src/main.c:53:6:turn_surname_off	4	static
+../Src/main.c:59:6:delaythat	16	static
+../Src/main.c:66:5:main	16	static
